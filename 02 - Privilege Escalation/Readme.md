@@ -74,3 +74,17 @@ The root cause was unnecessary SUID permission assigned to Nmap combined with le
 - Remove or restrict unnecessary privileged functionality.
 
 > All testing was performed in an authorized and isolated laboratory environment for educational purposes.
+
+## Screenshots
+
+### Reverse Shell
+![Reverse Shell](Screenshots/reverse-shell-4444.png)
+
+### SUID Nmap Enumeration
+![Nmap Interactive](Screenshots/nmap-interactive.png)
+
+### Privilege Escalation
+![Privilege Escalation](Screenshots/privilege-escalation.png)
+
+### Root Shell
+![Root Shell](Screenshots/reverse-shell.png)
